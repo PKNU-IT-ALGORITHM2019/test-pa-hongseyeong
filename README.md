@@ -1,6 +1,2 @@
-# Test-PA
-It's a repository just for test.
-
-
-Name : Hong seyeong
+Name : Hong se-yeong
 Std Number : 201612052
